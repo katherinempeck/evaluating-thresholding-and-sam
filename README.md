@@ -15,6 +15,6 @@ The folder **Helper_scripts** contains some additional code we used to randomly 
 The folder **Results_and_stats** contains an demo Jupyter Notebook with the statistical analysis we conducted on the method outputs.
 
 ## References Cited
-Kirillov, Alexander, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, et al. 2023. “Segment Anything.” In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 4015–26.
+Kirillov, Alexander, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, et al. 2023. “Segment Anything.” In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 4015–26.  
 <br>
 Schneider, Caroline A., Wayne S. Rasband, and Kevin W. Eliceiri. "NIH Image to ImageJ: 25 years of image analysis." *Nature Methods* 9, no. 7 (2012): 671-675.
