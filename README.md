@@ -12,10 +12,9 @@ The thresholding was conducted using ImageJ's (Schnieder et al. 2012) default th
 
 The folder **Helper_scripts** contains some additional code we used to randomly select images for analysis and combine output CSVs.
 
-## References Cited
-Kirillov, Alexander, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollar, and Ross Girshick<br>
-2023 &emsp;Segment Anything. In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, pp. 4015–4026.
-<br>
-Schneider, Caroline A., Wayne S. Rasband, and Kevin W. Eliceiri<br>
-2012 &emsp;NIH Image to ImageJ: 25 years of image analysis. *Nature Methods* 9(7):671–675.
+The folder **Results_and_stats** contains an demo Jupyter Notebook with the statistical analysis we conducted on the method outputs.
 
+## References Cited
+Kirillov, Alexander, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, et al. 2023. “Segment Anything.” In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 4015–26.
+<br>
+Schneider, Caroline A., Wayne S. Rasband, and Kevin W. Eliceiri. "NIH Image to ImageJ: 25 years of image analysis." *Nature Methods* 9, no. 7 (2012): 671-675.
