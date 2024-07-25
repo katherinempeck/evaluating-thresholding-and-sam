@@ -1,0 +1,8 @@
+#Ignore checkpoints/pycache
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
+__pycache__
+
+#Ignore results csv
+/Results_and_stats/csv
+/Results_and_stats/output_images
