@@ -4,11 +4,13 @@ import os
 #ImageJ batch processing outputs an individual CSV for each image
 #This script merges all results into one CSV
 
-#Parameter
+#Parameters
 
 #Change this variable the folder that includes all the CSVs
 foldername = 'C:/Path/to/folder/csvs'
 output_csv_name = 'merged_output.csv'
+
+#Run
 
 #Shouldn't need to change anything below this line
 files_to_merge = []

@@ -44,7 +44,8 @@ def get_masks(image_path, model_type, checkpoint):
     return masks
 
 def remove_biggest_mask(mask_array):
-    """Given SAM mask outputs, remove the largest mask (usually the "background" mask)
+    """Given SAM mask outputs, remove the largest mask (the "background" or "fabric" mask for these images)
+       For other image types, this may not be necessary
 
     Args:
         mask_array (numpy array): output from get_masks() defined above

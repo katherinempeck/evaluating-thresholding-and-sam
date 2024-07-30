@@ -5,6 +5,7 @@ import random
 #To randomly select images for analysis, we filtered this spreadsheet to a single site based on the unique ID associated with that site ('KK' for Kin Kletso)
 #We also filtered to only images taken at the same objective, using the unique string associated with those photos ('10x2')
 
+#Parameters
 #To resample, change these parameters:
 
 #Replace string below with path to actual CSV
@@ -18,6 +19,7 @@ objective = '10x2'
 #Replace integer below with desired number of images to sample
 sample_size = 20
 
+#Run
 #Should not need to change anything below this line
 #Read in photo log CSV
 photos = pd.read_csv(in_csv_path)
